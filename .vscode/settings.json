@@ -1,0 +1,21 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "html",
+    "javascriptreact": "javascriptreact",
+    "typescript": "typescript",
+    "typescriptreact": "typescriptreact"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.enable": false
+}
